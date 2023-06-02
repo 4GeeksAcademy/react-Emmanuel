@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: rgb(110, 117, 131);
+}
+.nav-link:hover {
+ color: aqua;
+}
+
+a:hover, h1:hover, h2:hover, .fs-1:hover, .card-title:hover{
+    color:rgb(255, 8, 0) !important;
+}
+
+a, .fs-1, .card-title{
+    transition: all .5s !important;
+}
+
+.btn-danger:hover{
+    color:rgb(0, 0, 0) !important;
+    background-color:rgb(255, 8, 0)!important ;
+}
