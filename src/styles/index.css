@@ -8,7 +8,6 @@
     other sylesheets into your bunde as well, e.j:
     
     import 'relative/path/to/stylesheet.scss';
-
 */
 body{
     background-color: rgb(110, 117, 131);

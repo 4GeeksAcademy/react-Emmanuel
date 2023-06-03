@@ -4,9 +4,7 @@ import Header from "./Header.jsx";
 import Body from "./Body.jsx";
 import Footer from "./Footer.jsx"
 
-
 //include images into your bundle
-
 //create your first component
 const Home = () => {
 	return (

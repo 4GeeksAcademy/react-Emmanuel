@@ -1,5 +1,5 @@
 import React from "react";
-import imagen from "/workspaces/react-Emmanuel/src/img/nissan-gtr-vs-supra-4k-ku-1360x768.jpg";
+import imagen from "/workspaces/react-Emmanuel/src/img/nissan-gtr-vs-supra-4k-k-1360x768.jpg";
 const Card = () => {
     
 	return ( 
@@ -15,7 +15,6 @@ const Card = () => {
     </div>
   </div>
   </div>
-
         );
     };
     
